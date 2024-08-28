@@ -10,7 +10,7 @@ Bu proje, bir webcam ve Arduino kullanarak gerçek zamanlı bir nesne takip sist
 
 
 
-![Arduino](images/arduino_serial.gif)
+![Arduino](images/gallipoli_arduino.gif)
 
 
 
