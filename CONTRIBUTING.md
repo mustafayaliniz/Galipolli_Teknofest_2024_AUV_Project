@@ -4,14 +4,14 @@ Bu projeye katkıda bulunmayı düşündüğünüz için teşekkür ederiz! Aşa
 
 ## Hata Bildirme
 
-1. Projenin GitHub sayfasında [Issues](https://github.com/mustafayaliniz/Galipolli_Teknofest_2024_AUV_Project/issues) sekmesine gidin.
+1. Projenin GitHub sayfasında [Issues](https://github.com/mustafayaliniz/Gallipoli_Teknofest_2024_AUV_Project/issues) sekmesine gidin.
 2. Yeni bir hata bildirimi oluşturmak için `New Issue` butonuna tıklayın.
 3. Hatanın ne olduğunu, nasıl ortaya çıktığını ve mümkünse hatayı nasıl tekrar edebileceğinizi açıklayın.
 4. Hata ile ilgili ekran görüntüleri veya log dosyaları eklemek, sorunun çözülmesini hızlandırabilir.
 
 ## Yeni Özellikler Önerme
 
-1. Projenin GitHub sayfasında [Issues](https://github.com/mustafayaliniz/Galipolli_Teknofest_2024_AUV_Project/issues) sekmesine gidin.
+1. Projenin GitHub sayfasında [Issues](https://github.com/mustafayaliniz/Gallipoli_Teknofest_2024_AUV_Project/issues) sekmesine gidin.
 2. Yeni bir özellik önerisi oluşturmak için `New Issue` butonuna tıklayın.
 3. Önerdiğiniz özelliğin ne olduğunu ve nasıl uygulanabileceğini açıklayın.
 
