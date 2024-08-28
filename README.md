@@ -5,6 +5,11 @@ Bu depo, Teknofest 2024 İnsansız Su Altı Aracı (AUV) yarışması için geli
 
 ![Gallipoli](images/Gallipoli.png)
 
+
+![Gallipoli](images/Gallipoli.gif)
+
+
+
 ## Klasör Yapısı
 
 - **YOLO_Object_Detection_with_Custom_Circle_Figure**  
