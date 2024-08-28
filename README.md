@@ -1,6 +1,8 @@
 # Teknofest 2024 Autonomous Underwater Vehicle (AUV) Project
 
 Bu depo, Teknofest 2024 İnsansız Su Altı Aracı (AUV) yarışması için geliştirdiğimiz projeye ait kodları ve modelleri içermektedir. Projemiz, su altı keşif ve görevleri için otonom bir araç geliştirmeyi amaçlamaktadır. 
+
+
 ![Gallipoli](images/Gallipoli.png)
 
 ## Klasör Yapısı
