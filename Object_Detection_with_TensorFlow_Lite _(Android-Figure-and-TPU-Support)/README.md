@@ -47,7 +47,7 @@ Bu proje, OpenCV kullanarak TensorFlow Lite nesne tespiti modelini çalıştırm
 
 - **TPU (Tensor İşleme Birimi):** Eğer TPU kullanıyorsanız, betiği çalıştırmadan önce cihazınızın doğru bir şekilde kurulduğundan emin olun.
 - **Android Figürü:** Bu model, Android figürünü tespit etmek üzere eğitilmiştir.
-- ![Android Figure](android_figure.png)
+- ![Android Figure](images/android_figure.png)
 
 ## Notlar
 
