@@ -5,6 +5,9 @@
 ### Açıklama
 Bu proje, bir webcam ve Arduino kullanarak gerçek zamanlı bir nesne takip sistemini içerir. Sistem, mavi renkli bir nesneyi tespit eder, nesnenin kameranın merkezine olan konumunu hesaplar ve bu konumsal veriyi bir Arduino'ya seri iletişim yoluyla gönderir. Arduino, bu veriyi işleyerek dört LED'in parlaklığını kontrol eder ve nesnenin X ve Y eksenlerindeki konumunu gösterir.
 
+![Arduino](images/arduino_serial.gif)
+
+
 ### Bileşenler
 - **Webcam**: Nesne tespiti için video akışını yakalar.
 - **Arduino**: Konumsal veriyi alır ve LED'leri kontrol eder.
